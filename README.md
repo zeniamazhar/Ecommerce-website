@@ -3,7 +3,7 @@
 This repository is for showcasing a fully functional spectacles e-commerce platform built using **React**, **Node.js**, and **MongoDB**, it includes both a customer-facing storefront and an admin interface to manage products, orders, and users. The source code has been redacted for security reasons.
 
 ---
-(https://www.youtube.com/watch?v=U__G38iXxmM)
+https://www.youtube.com/watch?v=U__G38iXxmM
 
 ## Features
 
